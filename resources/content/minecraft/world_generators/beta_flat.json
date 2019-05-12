@@ -1,0 +1,20 @@
+[
+	{
+		"action": "fill_blocks",
+		"from": [ 0, 0, 0 ],
+		"to": [ 16, 0, 16 ],
+		"blockstate": "bedrock"
+	},
+	{
+		"action": "fill_blocks",
+		"from": [ 0, 1, 0 ],
+		"to": [ 16, 2, 16 ],
+		"blockstate": "dirt"
+	},
+	{
+		"action": "fill_blocks",
+		"from": [ 0, 3, 0 ],
+		"to": [ 16, 3, 16 ],
+		"blockstate": "grass_block"
+	}
+]

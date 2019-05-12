@@ -1,0 +1,25 @@
+{
+	"collision": "cube",
+	"hardness": 0.2,
+	"blast_resistance": 1,
+	"lava_flammable": true,
+	"tool": "axe",
+	"item": {
+		"compost_value": 85
+	},
+	"properties": {
+		"down": "boolean",
+		"east": "boolean",
+		"north": "boolean",
+		"south": "boolean",
+		"up": "boolean",
+		"west": "boolean"
+	},
+	"events": {
+		"neighborupdate": [
+			{
+				"code": "if(event.neighborType==event.ownType)world.setProperty(event.neighborX,event.neighborY,event.neighborZ,event.side,false)"
+			}
+		]
+	}
+}

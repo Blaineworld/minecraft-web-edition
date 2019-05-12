@@ -1,0 +1,13 @@
+{
+	"collision": "cube",
+	"hardness": 5,
+	"blast_resistance": 30,
+	"flammable": true,
+	"lava_flammable": false,
+	"tool": "pickaxe",
+	"item": {
+		"fuel": {
+			"smelts": 80
+		}
+	}
+}

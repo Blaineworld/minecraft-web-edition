@@ -1,0 +1,5 @@
+coarse_dirt
+dirt
+farmland
+grass_block
+podzol

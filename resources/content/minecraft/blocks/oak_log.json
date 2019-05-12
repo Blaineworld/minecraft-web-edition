@@ -1,0 +1,17 @@
+{
+	"collision": "cube",
+	"hardness": 2,
+	"blast_resistance": 10,
+	"flammable": true,
+	"tool": "axe",
+	"item": {
+		"compost_value": 85
+	},
+	"properties": {
+		"axis": [
+			"y",
+			"z",
+			"x"
+		]
+	}
+}

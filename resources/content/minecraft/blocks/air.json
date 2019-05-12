@@ -1,0 +1,8 @@
+{
+	"collision": "empty",
+	"transparent": true,
+	"invisible": {
+		"cuboid": [ 4, 4, 4 ],
+		"outline_color": "CORNFLOWERBLUE"
+	}
+}

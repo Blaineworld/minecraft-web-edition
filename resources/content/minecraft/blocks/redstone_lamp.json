@@ -1,0 +1,32 @@
+{
+	"collision": "cube",
+	"hardness": 0.3,
+	"blast_resistance": 1.5,
+	"flammable": false,
+	"properties": {
+		"lit": "boolean"
+	},
+	"states": {
+		"lit=true": {
+			"luminance": 15,
+			"sky_access": true
+		}
+	},
+	"events": {
+		"redstonepowered": [
+			{
+				"action": "set_property",
+				"name": "lit",
+				"value": true
+			}
+		],
+		"redstoneunpowered": [
+			{
+				"action": "set_property",
+				"name": "lit",
+				"value": false
+			}
+		]
+	},
+	"item": {}
+}

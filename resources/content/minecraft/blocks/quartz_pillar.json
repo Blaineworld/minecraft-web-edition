@@ -1,0 +1,15 @@
+{
+	"collision": "cube",
+	"hardness": 0.8,
+	"blast_resistance": 4,
+	"flammable": false,
+	"tool": "pickaxe",
+	"item": {},
+	"properties": {
+		"axis": [
+			"y",
+			"z",
+			"x"
+		]
+	}
+}
