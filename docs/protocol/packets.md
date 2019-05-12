@@ -1,3 +1,0 @@
-# Minecraft: Web Edition Packet Format
-## Introduction
-A Minecraft: Web Edition packet is a data packet sent over a WebSocket connection containing UTF-8 text, with one character representing two bytes because I have no idea how to properly send binary data streams and am too lazy to just Google it. A packet consists of at least one byte, that byte representing the kind of packet being sent. After that there may be more bytes that encode additional information, which is usually the data that matters most in a packet. Below is a list of packet types by their ID number, as well as their syntax and a short description of each.
