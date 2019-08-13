@@ -1,0 +1,5 @@
+diamond_sword
+golden_sword
+iron_sword
+stone_sword
+wooden_sword

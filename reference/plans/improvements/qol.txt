@@ -1,0 +1,4 @@
+ -- Planned Quality-Of-Life Improvements --
+
+  Better mainhand-offhand use button logic.
+  Pressing [0] while hovering over an item swaps it into your offhand slot, similarly to [1]-[9].

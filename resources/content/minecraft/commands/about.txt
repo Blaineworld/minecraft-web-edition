@@ -1,0 +1,8 @@
+The "commands" folder contains JSON data about all the commands
+within Minecraft. Not all commands have been added yet, but you
+can look at the existing command data and get a pretty good idea
+of how the system works.
+
+Commands with the same name will be merged if they are in different
+namespaces, but if the command files are in the same namespace then
+the later command file will override the earlier command file.

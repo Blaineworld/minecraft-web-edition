@@ -1,0 +1,6 @@
+{
+	"parent": "cobblestone",
+	"hardness": 0.4,
+	"blast_resistance": 2,
+	"burn_forever": true
+}

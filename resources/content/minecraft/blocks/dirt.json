@@ -1,0 +1,7 @@
+{
+	"collision": "block/cube",
+	"hardness": 0.5,
+	"blast_resistance": 2.5,
+	"tool": "?shovels",
+	"item": {}
+}

@@ -1,7 +1,7 @@
 {
-	"collision": "cube",
+	"collision": "block/cube",
 	"hardness": 2,
 	"blast_resistance": 30,
-	"tool": "pickaxe",
+	"tool": "?pickaxes",
 	"item": {}
 }

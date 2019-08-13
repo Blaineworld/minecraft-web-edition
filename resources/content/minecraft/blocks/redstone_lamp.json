@@ -1,5 +1,5 @@
 {
-	"collision": "cube",
+	"collision": "block/cube",
 	"hardness": 0.3,
 	"blast_resistance": 1.5,
 	"flammable": false,

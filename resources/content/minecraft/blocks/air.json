@@ -1,5 +1,5 @@
 {
-	"collision": "empty",
+	"collision": "builtin/empty",
 	"transparent": true,
 	"invisible": {
 		"cuboid": [ 4, 4, 4 ],

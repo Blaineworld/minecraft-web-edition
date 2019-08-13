@@ -1,9 +1,9 @@
 {
-	"collision": "cube",
+	"collision": "block/cube",
 	"hardness": 0.8,
 	"blast_resistance": 4,
 	"flammable": false,
-	"tool": "pickaxe",
+	"tool": "?pickaxes",
 	"item": {},
 	"properties": {
 		"axis": [

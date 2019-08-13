@@ -1,0 +1,5 @@
+diamond_axe
+golden_axe
+iron_axe
+stone_axe
+wooden_axe

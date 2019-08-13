@@ -1,11 +1,11 @@
 {
-	"collision": "cube",
+	"collision": "block/cube",
 	"hardness": 2,
 	"blast_resistance": 10,
 	"flammable": true,
-	"tool": "axe",
+	"tool": "?axes",
 	"item": {
-		"compost_value": 85
+		"fuel": 1.5
 	},
 	"properties": {
 		"axis": [

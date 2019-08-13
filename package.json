@@ -1,0 +1,31 @@
+{
+	"name": "minecraft-web-edition",
+	"version": "0.0.0",
+	"description": "Minecraft, as it should be.",
+	"main": "index.js",
+	"dependencies": {
+		"fs": "^0.0.1-security"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"What's supposed to go here?\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Blaineworld/minecraft-web-edition.git"
+	},
+	"keywords": [
+		"Minecraft",
+		"Web",
+		"Edition",
+		"Video",
+		"Game",
+		"Server"
+	],
+	"author": "Blaineworld",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Blaineworld/minecraft-web-edition/issues"
+	},
+	"homepage": "https://github.com/Blaineworld/minecraft-web-edition#readme"
+}

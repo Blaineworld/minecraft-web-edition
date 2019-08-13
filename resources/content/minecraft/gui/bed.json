@@ -1,0 +1,11 @@
+{
+	"parent": "chat",
+	"elements": [
+		{
+			"kind": "button",
+			"name": "stop_sleeping",
+			"label": "multiplayer.stopSleeping",
+			"position": [ "center". -30 ],
+		}
+	]
+}

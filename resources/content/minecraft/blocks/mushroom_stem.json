@@ -1,9 +1,9 @@
 {
-	"collision": "cube",
+	"collision": "block/cube",
 	"hardness": 0.2,
 	"blast_resistance": 1,
-	"lava_flammable": true,
-	"tool": "axe",
+	"flammable": "lava",
+	"tool": "?axes",
 	"item": {
 		"compost_value": 85
 	},

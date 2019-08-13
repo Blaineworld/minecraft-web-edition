@@ -1,0 +1,5 @@
+diamond_hoe
+golden_hoe
+iron_hoe
+stone_hoe
+wooden_hoe

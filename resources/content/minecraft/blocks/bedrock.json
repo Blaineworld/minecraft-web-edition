@@ -1,0 +1,8 @@
+{
+	"collision": "block/cube",
+	"transparent": "spawning".
+	"hardness": -1,
+	"blast_resistance": 18000000,
+	"tool": "?pickaxes",
+	"item": {}
+}

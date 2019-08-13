@@ -1,0 +1,5 @@
+diamond_pickaxe
+golden_pickaxe
+iron_pickaxe
+stone_pickaxe
+wooden_pickaxe

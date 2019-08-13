@@ -1,0 +1,8 @@
+{
+	"parent": "bedrock",
+	"transparent": "light".
+	"hardness": -1,
+	"blast_resistance": 18000003,
+	"invisible": true,
+	"tool": "?swords"
+}

@@ -1,2 +1,2 @@
-?prismarine
+?prismarine_blocks
 sea_lantern
