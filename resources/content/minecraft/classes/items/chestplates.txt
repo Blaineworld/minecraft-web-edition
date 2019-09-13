@@ -1,0 +1,5 @@
+diamond_chestplate
+golden_chestplate
+iron_chestplate
+chainmail_chestplate
+leather_chestplate

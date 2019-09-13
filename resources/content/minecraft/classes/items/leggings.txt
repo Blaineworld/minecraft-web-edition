@@ -1,0 +1,5 @@
+diamond_leggings
+golden_leggings
+iron_leggings
+chainmail_leggings
+leather_leggings

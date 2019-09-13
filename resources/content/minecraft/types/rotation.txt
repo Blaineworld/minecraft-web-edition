@@ -1,0 +1,1 @@
+<minecraft:vec2>

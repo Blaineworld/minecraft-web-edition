@@ -1,4 +1,4 @@
  -- Planned Quality-Of-Life Improvements --
 
-  Better mainhand-offhand use button logic.
-  Pressing [0] while hovering over an item swaps it into your offhand slot, similarly to [1]-[9].
+* Pressing "use" with usable items in your main hand and off hand slots will attempt to use the item in your off hand if the one in your main hand cannot be used. (Think placing a torch while holding a carrot.)
+* Pressing [0] while hovering over an item swaps it into your off hand slot, similarly to [1]-[9].

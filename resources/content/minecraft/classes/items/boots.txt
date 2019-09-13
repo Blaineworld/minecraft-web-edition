@@ -1,0 +1,5 @@
+diamond_boots
+golden_boots
+iron_boots
+chainmail_boots
+leather_boots

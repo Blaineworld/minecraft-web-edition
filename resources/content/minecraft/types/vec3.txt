@@ -1,0 +1,1 @@
+(<brigadier:float>|(~|^)[<brigadier:float>]) (<brigadier:float>|(~|^)[<brigadier:float>]) (<brigadier:float>|(~|^)[<brigadier:float>]) 

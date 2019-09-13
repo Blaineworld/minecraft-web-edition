@@ -1,5 +1,5 @@
 [1]: https://minecraft.net "Minecraft's Official Website"
 
 # Minecraft Web Edition
-*[Minecraft][1], as it should be.*
-
+## Setup Instructions
+Since Minecraft's assets are, according to the title screen, `Copyright Mojang AB. Do not distribute!`, original Minecraft files, such as textures, heatmaps, and loot tables are not included. You will need a copy of the latest version of Minecraft: Java Edition to extract the assets from in order to make this project less illegal. Simply open the JAR file in 7-Zip or whatever program you use, and copy the `minecraft.jar/assets` and `minecraft.jar/data` folders into the `resources` folder of this project. After that, you should be good to go! If you experience any issues with missing textures, structures, and whatnot, try copying the files from a newer version of the game. If you've already tried that or that doesn't work, let me know about the issue by reporting it as a bug or something!

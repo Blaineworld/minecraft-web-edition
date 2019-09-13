@@ -2,18 +2,17 @@
 	"collision": "block/cube",
 	"hardness": 0.3,
 	"blast_resistance": 1.5,
-	"flammable": false,
 	"properties": {
 		"lit": "boolean"
 	},
 	"states": {
 		"lit=true": {
 			"luminance": 15,
-			"sky_access": true
+			"transparent": "sky"
 		}
 	},
 	"events": {
-		"redstonepowered": [
+		"redstonepower": [
 			{
 				"action": "set_property",
 				"name": "lit",

@@ -8,6 +8,7 @@
 	},
 	"devDependencies": {},
 	"scripts": {
+		"install": "node install",
 		"test": "echo \"What's supposed to go here?\""
 	},
 	"repository": {

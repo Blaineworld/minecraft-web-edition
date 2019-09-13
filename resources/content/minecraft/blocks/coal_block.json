@@ -6,8 +6,6 @@
 	"lava_flammable": false,
 	"tool": "pickaxe",
 	"item": {
-		"fuel": {
-			"smelts": 80
-		}
+		"fuel": 80
 	}
 }
