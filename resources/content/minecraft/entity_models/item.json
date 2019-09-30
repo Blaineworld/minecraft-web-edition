@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"type": "item",
+			"display": "",
+			"source": {
+				"tag": "Item"
+			}
+		}
+	]
+}

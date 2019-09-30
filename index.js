@@ -1,6 +1,6 @@
 'use strict';
 
-const I = new (require("./lib/initializer.js"))(1, function() {
+const I = new (require("./lib/initializer.js"))(2, function() {
 	console.log("Finished!");
 
 	// Minecraft . . .
@@ -9,8 +9,6 @@ const I = new (require("./lib/initializer.js"))(1, function() {
 const fs = require("fs");
 
 fs.readFile("server.properties", "utf8", async function(error, data) {
-	// Process it . . .
-
-	// Tick it off!
+	// Process the server.properties . . .
 	I.tick();
 });
