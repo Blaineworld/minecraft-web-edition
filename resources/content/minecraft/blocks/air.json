@@ -1,3 +1,10 @@
 {
-	"collision": "block"
+	"collision": "block",
+	"blast_resistance": 0,
+	"hardness": -1,
+	"transparent": true,
+	"invisible": {
+		"border": "#7F7FFF",
+		"cuboid": 2
+	}
 }
