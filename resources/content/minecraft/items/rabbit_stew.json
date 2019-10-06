@@ -1,0 +1,11 @@
+{
+	"stack": 1,
+	"mutations": {
+		"empty": "bowl"
+	},
+	"consumable": {
+		"value": 10,
+		"saturation": 12,
+		"mutate": "empty"
+	}
+}

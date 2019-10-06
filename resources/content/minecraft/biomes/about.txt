@@ -1,4 +1,0 @@
-The "biomes" folder contains JSON data about all of the biomes
-within Minecraft. Not all biomes have been added yet, but you
-can look at the existing biome data and get a pretty good idea
-of how the system works.

@@ -1,4 +1,0 @@
-The "functions" folder contains command functions. The reason this
-folder even exists despite command functions also existing as data
-instead of content, is that the command functions here are written
-in JavaScript instead of Minecraft commands.

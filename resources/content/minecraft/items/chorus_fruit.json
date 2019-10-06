@@ -1,0 +1,7 @@
+{
+	"consumable": {
+		"value": 4,
+		"saturation": 2.4,
+		"effects": "teleport"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"consumable": {
+		"value": 2,
+		"saturation": 3.2,
+		"effects": {
+			"type": "entity_effect",
+			"name": "poison",
+			"duration": 80
+		}
+	}
+}

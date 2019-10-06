@@ -1,0 +1,12 @@
+{
+	"stack": 1,
+	"mutations": {
+		"empty": "glass_bottle"
+	},
+	"consumable": {
+		"value": 6,
+		"saturation": 2.4,
+		"mutate": "empty",
+		"sound_event": "item.honey_bottle.drink"
+	}
+}

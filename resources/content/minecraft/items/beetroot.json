@@ -1,0 +1,7 @@
+{
+	"compost_chance": 65,
+	"consumable": {
+		"value": 1,
+		"saturation": 1.2
+	}
+}

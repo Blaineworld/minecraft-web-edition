@@ -1,0 +1,30 @@
+{
+	"consumable": {
+		"value": 4,
+		"saturation": 9.6,
+		"effects": [
+			{
+				"type": "entity_effect",
+				"name": "regeneration",
+				"duration": 400,
+				"amplifier": 1
+			},
+			{
+				"type": "entity_effect",
+				"name": "absorption",
+				"duration": 400,
+				"amplifier": 3
+			},
+			{
+				"type": "entity_effect",
+				"name": "resistance",
+				"duration": 6000
+			},
+			{
+				"type": "entity_effect",
+				"name": "fire_resistance",
+				"duration": 6000
+			}
+		]
+	}
+}
