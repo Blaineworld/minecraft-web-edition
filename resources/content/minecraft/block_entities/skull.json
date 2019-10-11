@@ -1,0 +1,12 @@
+{
+	"tags": {
+		"Owner": "compound",
+		"Owner.Id": "string",
+		"Owner.Properties": "compound",
+		"Owner.Properties.textures": "list",
+		"Owner.Properties.textures[*]": "compound",
+		"Owner.Properties.textures[*].Signature": "string",
+		"Owner.Properties.textures[*].Value": "string",
+		"Owner.Name": "string"
+	}
+}
